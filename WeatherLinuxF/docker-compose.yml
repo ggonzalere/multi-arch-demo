@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  weatherwindowsf:
+    image: weatherwindowsf
+    build:
+      context: ./WeatherWindowsF
+      dockerfile: Dockerfile

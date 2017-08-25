@@ -1,0 +1,9 @@
+D:\demo\WindowsLinux\WeatherWindowsF\WeatherWindowsF\bin\Debug\netcoreapp1.1\WeatherWindowsF.deps.json
+D:\demo\WindowsLinux\WeatherWindowsF\WeatherWindowsF\bin\Debug\netcoreapp1.1\WeatherWindowsF.runtimeconfig.json
+D:\demo\WindowsLinux\WeatherWindowsF\WeatherWindowsF\bin\Debug\netcoreapp1.1\WeatherWindowsF.runtimeconfig.dev.json
+D:\demo\WindowsLinux\WeatherWindowsF\WeatherWindowsF\obj\Debug\netcoreapp1.1\WeatherWindowsF.AssemblyInfo.cs
+D:\demo\WindowsLinux\WeatherWindowsF\WeatherWindowsF\bin\Debug\netcoreapp1.1\WeatherWindowsF.dll
+D:\demo\WindowsLinux\WeatherWindowsF\WeatherWindowsF\bin\Debug\netcoreapp1.1\WeatherWindowsF.pdb
+D:\demo\WindowsLinux\WeatherWindowsF\WeatherWindowsF\obj\Debug\netcoreapp1.1\WeatherWindowsF.csprojResolveAssemblyReference.cache
+D:\demo\WindowsLinux\WeatherWindowsF\WeatherWindowsF\obj\Debug\netcoreapp1.1\WeatherWindowsF.dll
+D:\demo\WindowsLinux\WeatherWindowsF\WeatherWindowsF\obj\Debug\netcoreapp1.1\WeatherWindowsF.pdb

@@ -1,0 +1,9 @@
+C:\Users\t-gigonz\Documents\Visual Studio 2017\Projects\WeatherRecopiler\WeatherRecopiler\bin\Release\netcoreapp1.1\WeatherRecopiler.deps.json
+C:\Users\t-gigonz\Documents\Visual Studio 2017\Projects\WeatherRecopiler\WeatherRecopiler\bin\Release\netcoreapp1.1\WeatherRecopiler.runtimeconfig.json
+C:\Users\t-gigonz\Documents\Visual Studio 2017\Projects\WeatherRecopiler\WeatherRecopiler\bin\Release\netcoreapp1.1\WeatherRecopiler.runtimeconfig.dev.json
+C:\Users\t-gigonz\Documents\Visual Studio 2017\Projects\WeatherRecopiler\WeatherRecopiler\bin\Release\netcoreapp1.1\WeatherRecopiler.dll
+C:\Users\t-gigonz\Documents\Visual Studio 2017\Projects\WeatherRecopiler\WeatherRecopiler\bin\Release\netcoreapp1.1\WeatherRecopiler.pdb
+C:\Users\t-gigonz\Documents\Visual Studio 2017\Projects\WeatherRecopiler\WeatherRecopiler\obj\Release\netcoreapp1.1\WeatherRecopiler.csprojResolveAssemblyReference.cache
+C:\Users\t-gigonz\Documents\Visual Studio 2017\Projects\WeatherRecopiler\WeatherRecopiler\obj\Release\netcoreapp1.1\WeatherRecopiler.AssemblyInfo.cs
+C:\Users\t-gigonz\Documents\Visual Studio 2017\Projects\WeatherRecopiler\WeatherRecopiler\obj\Release\netcoreapp1.1\WeatherRecopiler.dll
+C:\Users\t-gigonz\Documents\Visual Studio 2017\Projects\WeatherRecopiler\WeatherRecopiler\obj\Release\netcoreapp1.1\WeatherRecopiler.pdb

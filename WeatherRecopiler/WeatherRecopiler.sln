@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherRecopiler", "WeatherRecopiler\WeatherRecopiler.csproj", "{794E7799-6E04-4EB0-824D-A9DF6FE05ED5}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{2C38ED5B-4311-4323-90EB-B8DA19E4E38E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{794E7799-6E04-4EB0-824D-A9DF6FE05ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794E7799-6E04-4EB0-824D-A9DF6FE05ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794E7799-6E04-4EB0-824D-A9DF6FE05ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794E7799-6E04-4EB0-824D-A9DF6FE05ED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C38ED5B-4311-4323-90EB-B8DA19E4E38E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C38ED5B-4311-4323-90EB-B8DA19E4E38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C38ED5B-4311-4323-90EB-B8DA19E4E38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C38ED5B-4311-4323-90EB-B8DA19E4E38E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

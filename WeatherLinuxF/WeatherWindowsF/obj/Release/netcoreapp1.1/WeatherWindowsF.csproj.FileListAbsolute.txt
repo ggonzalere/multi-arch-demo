@@ -1,0 +1,17 @@
+D:\demo\WindowsLinux\WeatherWindowsF\WeatherWindowsF\bin\Release\netcoreapp1.1\WeatherWindowsF.deps.json
+D:\demo\WindowsLinux\WeatherWindowsF\WeatherWindowsF\bin\Release\netcoreapp1.1\WeatherWindowsF.runtimeconfig.json
+D:\demo\WindowsLinux\WeatherWindowsF\WeatherWindowsF\bin\Release\netcoreapp1.1\WeatherWindowsF.runtimeconfig.dev.json
+D:\demo\WindowsLinux\WeatherWindowsF\WeatherWindowsF\bin\Release\netcoreapp1.1\WeatherWindowsF.dll
+D:\demo\WindowsLinux\WeatherWindowsF\WeatherWindowsF\bin\Release\netcoreapp1.1\WeatherWindowsF.pdb
+D:\demo\WindowsLinux\WeatherWindowsF\WeatherWindowsF\obj\Release\netcoreapp1.1\WeatherWindowsF.AssemblyInfo.cs
+D:\demo\WindowsLinux\WeatherWindowsF\WeatherWindowsF\obj\Release\netcoreapp1.1\WeatherWindowsF.dll
+D:\demo\WindowsLinux\WeatherWindowsF\WeatherWindowsF\obj\Release\netcoreapp1.1\WeatherWindowsF.pdb
+C:\Users\t-gigonz\Desktop\WeatherWindowsF\WeatherWindowsF\bin\Release\netcoreapp1.1\WeatherWindowsF.deps.json
+C:\Users\t-gigonz\Desktop\WeatherWindowsF\WeatherWindowsF\bin\Release\netcoreapp1.1\WeatherWindowsF.runtimeconfig.json
+C:\Users\t-gigonz\Desktop\WeatherWindowsF\WeatherWindowsF\bin\Release\netcoreapp1.1\WeatherWindowsF.runtimeconfig.dev.json
+C:\Users\t-gigonz\Desktop\WeatherWindowsF\WeatherWindowsF\bin\Release\netcoreapp1.1\WeatherWindowsF.dll
+C:\Users\t-gigonz\Desktop\WeatherWindowsF\WeatherWindowsF\bin\Release\netcoreapp1.1\WeatherWindowsF.pdb
+C:\Users\t-gigonz\Desktop\WeatherWindowsF\WeatherWindowsF\obj\Release\netcoreapp1.1\WeatherWindowsF.csprojResolveAssemblyReference.cache
+C:\Users\t-gigonz\Desktop\WeatherWindowsF\WeatherWindowsF\obj\Release\netcoreapp1.1\WeatherWindowsF.AssemblyInfo.cs
+C:\Users\t-gigonz\Desktop\WeatherWindowsF\WeatherWindowsF\obj\Release\netcoreapp1.1\WeatherWindowsF.dll
+C:\Users\t-gigonz\Desktop\WeatherWindowsF\WeatherWindowsF\obj\Release\netcoreapp1.1\WeatherWindowsF.pdb

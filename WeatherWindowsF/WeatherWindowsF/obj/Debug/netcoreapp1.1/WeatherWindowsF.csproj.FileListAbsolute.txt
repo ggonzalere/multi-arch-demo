@@ -1,0 +1,9 @@
+d:\projects\WeatherWindowsF\WeatherWindowsF\bin\Debug\netcoreapp1.1\WeatherWindowsF.deps.json
+d:\projects\WeatherWindowsF\WeatherWindowsF\bin\Debug\netcoreapp1.1\WeatherWindowsF.runtimeconfig.json
+d:\projects\WeatherWindowsF\WeatherWindowsF\bin\Debug\netcoreapp1.1\WeatherWindowsF.runtimeconfig.dev.json
+d:\projects\WeatherWindowsF\WeatherWindowsF\bin\Debug\netcoreapp1.1\WeatherWindowsF.dll
+d:\projects\WeatherWindowsF\WeatherWindowsF\obj\Debug\netcoreapp1.1\WeatherWindowsF.csprojResolveAssemblyReference.cache
+d:\projects\WeatherWindowsF\WeatherWindowsF\obj\Debug\netcoreapp1.1\WeatherWindowsF.AssemblyInfo.cs
+d:\projects\WeatherWindowsF\WeatherWindowsF\bin\Debug\netcoreapp1.1\WeatherWindowsF.pdb
+d:\projects\WeatherWindowsF\WeatherWindowsF\obj\Debug\netcoreapp1.1\WeatherWindowsF.dll
+d:\projects\WeatherWindowsF\WeatherWindowsF\obj\Debug\netcoreapp1.1\WeatherWindowsF.pdb
